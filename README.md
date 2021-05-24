@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ana Ventura</h1>
-<h3 align="center">A passionate full stack development student at Trybe, from Belo Horizonte area, Brazil.</h3>
+<h3 align="center">A passionate full stack web development student at Trybe, from Belo Horizonte area, Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaventura1811&label=Profile%20views&color=0e75b6&style=flat" alt="anaventura1811" /> </p>
 
