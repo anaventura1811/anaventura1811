@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Movie Card Library CRUD Project](https://github.com/tryber/sd-010-a-project-movie-card-library-crud/pull/44)
 
-- 🌱 I’m currently learning **React, TypeScript, React Testing Library**
+- 🌱 I’m currently learning **React, React Testing Library**
 
 - 👨‍💻 All of my projects will soon be available [here](https://linktr.ee/ana_ventura)
 
