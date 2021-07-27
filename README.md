@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web development student at Trybe, from Belo Horizonte area, Brazil.</h3>
 
 __________________
-- 🔭 I’m currently working on [Letmeask App (NLW Together ReactJS Project)](https://github.com/anaventura1811/letmeask-app)
+- 🔭 I’m currently working on [LetmeEat App (Extra Features - Final Project - Front-end Developer Certificate Trybe)](https://github.com/anaventura1811/letmeeat)
 
 - 🌱 I’m currently learning **React | React Testing Library | Jest | TypeScript | React Next**
 
