@@ -5,7 +5,7 @@
 __________________
 - 🔭 I’m currently working on [LetmeEat App (Extra Features - Final Project - Front-end Developer Certificate Trybe)](https://github.com/anaventura1811/letmeeat)
 
-- 🌱 I’m currently learning **React | React Testing Library | Jest | TypeScript | React Next**
+- 🌱 I’m currently learning **React | React Testing Library | Jest | TypeScript | React Next | SQL | Cypress **
 
 - 👨‍💻 All of my projects will soon be available [here](https://linktr.ee/ana_ventura)
 
