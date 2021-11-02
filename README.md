@@ -3,9 +3,9 @@
 <h3 align="center">A passionate web development student at Trybe and frontend developer from Belo Horizonte area, Brazil.</h3>
 
 __________________
-- 🔭 I’m currently working on [LetmeEat App (Extra Features - Final Project - Front-end Developer Certificate Trybe)](https://github.com/anaventura1811/letmeeat)
+- 🔭 I’m currently working on [Frontend](https://github.com/anaventura1811/front), [Backend](https://github.com/anaventura1811/app-nlw-heat) e [Mobile](https://github.com/anaventura1811/front_mobile) versions of a webchat app using TypeScript, MongoDB, Prisma, React and Socket.io
 
-- 🌱 I’m currently learning **TypeScript | Node | MongoDB | Sockets-Io | Cypress | GraphQL**
+- 🌱 I’m currently learning **TypeScript | Node | MongoDB | Socket-Io | Cypress | GraphQL**
 
 - 👨‍💻 All of my projects will soon be available [here](https://linktr.ee/ana_ventura)
 
