@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web development student at Trybe and frontend developer from Belo Horizonte area, Brazil.</h3>
 
 __________________
-- 🔭 I’m currently working on [Frontend](https://github.com/anaventura1811/front), [Backend](https://github.com/anaventura1811/app-nlw-heat) e [Mobile](https://github.com/anaventura1811/front_mobile) versions of a webchat app using TypeScript, MongoDB, Prisma, React and Socket.io
+- 🔭 I’m currently working on [Desktop](https://github.com/anaventura1811/front) and [Mobile](https://github.com/anaventura1811/front_mobile) versions of a webchat app using TypeScript, MongoDB, Prisma, React and Socket.io, The [Backend](https://github.com/anaventura1811/app-nlw-heat) of the application is in Node JS.
 
 - 🌱 I’m currently learning **TypeScript | Node | MongoDB | Socket-Io | Cypress | GraphQL**
 
