@@ -15,7 +15,6 @@ __________________
 
 - 📫 Please reach me at **anaventura1811@gmail.com**
 
-- 📄 Know more about my experiences [here](https://linktr.ee/ana_ventura)
 - ⚡ When I'm not coding, I'm usually either baking cakes 🎂 or reading 🤓 (frequently manga) =))
 
 - **Connect with me at:** <a href="https://linkedin.com/in/ana-flavia-pereira-ventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-flavia-pereira-ventura" height="30" width="40" /></a><a href="https://instagram.com/lidosdaninha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lidosdaninha" height="30" width="40" /></a>
