@@ -11,7 +11,7 @@ __________________
 
 - 📝 I regularly write articles [here](www.entrepratoseafetos.com)
 
-- 🔭 I’m interested in learning **React Native, Mobile App Development**
+- 🔭 I’m interested in learning **AWS Lambdas**
 
 - 📫 Please reach me at **anaventura1811@gmail.com**
 
