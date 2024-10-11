@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Ana Ventura</h1>
 
-<h3 align="center">A passionate software engineer student at Uemg and frontend developer from Belo Horizonte area, Brazil.</h3>
+<h3 align="center">A PhD in Sociology and adventurous lifelong learner fullstack engineer from Belo Horizonte area, Minas Gerais, Brazil, currently living in João Pessoa, Paraíba, Brazil.</h3>
 
 __________________
-- 🔭 I’m currently working on [Desktop](https://github.com/anaventura1811/front) and [Mobile](https://github.com/anaventura1811/front_mobile) versions of a webchat app using TypeScript, MongoDB, Prisma, React and Socket.io, The [Backend](https://github.com/anaventura1811/app-nlw-heat) of the application is in Node JS.
 
-- 🌱 I’m currently learning **Angular | Node | Python |GraphQL**
+- 🌱 I’m currently learning **PHP | Laravel**
 
 - 👨‍💻 All of my projects will soon be available [here](https://linktr.ee/ana_ventura)
 
@@ -15,7 +14,7 @@ __________________
 
 - 📫 Please reach me at **anaventura1811@gmail.com**
 
-- ⚡ When I'm not coding, I'm usually either baking cakes 🎂 or reading 🤓 (frequently manga) =))
+- ⚡ When I'm not coding, I'm usually either baking cakes 🎂, taking strolls with Serena (my playful and cute 6 months old German short-haired pointer puppy), or reading 🤓 (frequently manga) =))
 
 - **Connect with me at:** <a href="https://linkedin.com/in/ana-flavia-pereira-ventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-flavia-pereira-ventura" height="30" width="40" /></a><a href="https://instagram.com/lidosdaninha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lidosdaninha" height="30" width="40" /></a>
 
