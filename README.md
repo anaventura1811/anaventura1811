@@ -16,7 +16,7 @@ __________________
 
 - 📫 Please reach me at **anaventura1811@gmail.com**
 
-- ⚡ When I'm not coding, I'm usually either baking cakes 🎂, taking strolls with Serena (my playful and cute 6 months old German short-haired pointer puppy), or reading 🤓 (frequently manga) =))
+- ⚡ When I'm not coding, I'm usually either enjoying nature, taking strolls with Serena (my playful and cute 6 months old German short-haired pointer puppy), or reading 🤓 (frequently manga) =))
 
 - **Connect with me at:** <a href="https://linkedin.com/in/ana-flavia-pereira-ventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-flavia-pereira-ventura" height="30" width="40" /></a><a href="https://instagram.com/lidosdaninha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lidosdaninha" height="30" width="40" /></a>
 
