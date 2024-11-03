@@ -6,7 +6,7 @@ __________________
 
 - 🌱 I’m currently learning **PHP | Laravel**
   
-- Tech: **React | React Native | Angular | Ionic | Magento 2 | Python | GraphQL | Node.js | HTML | CSS | JavaScript | TypeScript | SQL | MongoDB | PHP | Laravel | Docker**
+- Tech: **React | React Native | Angular | Ionic | Magento 2 | Python | GraphQL | Node.js | HTML | CSS | JavaScript | TypeScript | SQL | MongoDB | SQL | MySQL | PHP | Laravel | Docker**
 
 - 👨‍💻 All of my projects will soon be available [here](https://linktr.ee/ana_ventura)
 
